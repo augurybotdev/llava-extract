@@ -1,3 +1,3 @@
-from license_database import LicenseDatabase
-import image_collect
-from duckduckgo_image_search import DuckDuckGoImageSearch
+from .license_database import LicenseDatabase
+from .duckduckgo_image_search import DuckDuckGoImageSearch
+from .text_extraction import Extract

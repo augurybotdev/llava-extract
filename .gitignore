@@ -3,8 +3,13 @@ venv
 images
 notes.md
 duckduckgo_image_search.py
-
-
+.streamlit
+secrets.toml
+license_database_depricated.py
+image_collect.py
+images_search.ipynb
+data
+license_database.db
 
 
 
