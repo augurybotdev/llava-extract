@@ -1,5 +1,5 @@
 from duckduckgo_image_search import DuckDuckGoImageSearch
-from fastduck import FastDuck
+# from fastduck import FastDuck
 
 
 ducksearch = DuckDuckGoImageSearch()

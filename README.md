@@ -5,7 +5,7 @@ llava 1.5 comp vision with llm intelligence fine tuned on custom dataset of US d
 
 - About This Project: Why am I trying to extract the text from Drivers Licenses using a cutting edge advanced multi-modal ai?
 
-- I was approached by potential client looking for developers to work on a project. I was encouraged to submit a proposal on the Up-Work platform. The potential client wanted a specialty OCR that could reliably extract the text from an image of an ID and accurately collect it into a form or database. Seeing an opportunity here, whilst not having much direct experience with OCR's I went for it and gave it my best shot. 
+- I was approached by potential client looking for developers to work on a project. I was encouraged to submit a proposal. The potential client wanted a specialty OCR that could reliably extract the text from an image of an ID and accurately collect it into a form or database. Seeing an opportunity here, whilst not having much direct experience with OCR's I went for it and gave it my best shot. 
 
 - Instead of simply applying, I took a few hours and developed an online demo show-casing 2 different approaches. Both of these demos implemented the basic tech needed, depending on 2 different fundamental considerations. One demo considers a locally hosted concept that would be completely customizable and fine-tunable and then another one utilizing a service (Google CV) for an out of box solution but free for demo purposes. I did not yet know what the potential client's needs were, so I wanted to show that I could flexibly adapt to their unique situation.
 
@@ -38,16 +38,5 @@ The idea is to make this better than any current ocr or human for that matter, w
     - collect 10 results for each US State.
     - encapsulate methods to clean and validate the resulting images, 
     - remove any defunct download attempts / broken links 
-
-### Next Steps.
-
-4. - price and performance analysis of cloud notebook GPU vs api hosted.
-5. - refactor code if needed, including database connection
-6. - manually check, update and confirm accuracy of dataset
-7. - create hypothesis, document plan, techniques, cost, time and expected outcome of training
-8. - add or alter data as needed to implement step by step
-9. - train, compare accuracy, adjust, repeat
-10. - document case-study
-
 
 
